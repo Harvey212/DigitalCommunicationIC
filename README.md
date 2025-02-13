@@ -7,7 +7,7 @@ project keywords: O-QPSK, QPSK, PI/4-QPSK, modulation, spectrum, subcarrier, OFD
 project keywords: autocorrelation property, cross-correlation, Zadoff-Chu sequence, Walsh Hadamard code, synchronization, linear feedback shift register
 
 ## Project 3:
-project keywords:
+project keywords: Channel power delay profile, multipath fading channel, channel frequency response, coherence bandwidth, flat-fading channel, IQ imbalance, Cyclic prefix, OFDM
 
 ## Project 4:
 project keywords:
