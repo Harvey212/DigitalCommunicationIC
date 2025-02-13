@@ -16,4 +16,4 @@ project keywords: beamforming, AoA, AoD, QPSK Costas loop
 project keywords: preamble, midamble, channel estimation, channel correlation, 16-QAM
 
 ## Project 6:
-project keywords:
+project keywords: MIMO, ZF(Zero-forcing) detection, OSIC(OrderedSuccessive Interference Cancellation), Sphere decoder, Maximum likelihood (ML) detection, 8-best algorithm, bit error rate, signal to noise ratio
