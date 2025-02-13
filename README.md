@@ -13,4 +13,7 @@ project keywords: Channel power delay profile, multipath fading channel, channel
 project keywords: beamforming, AoA, AoD, QPSK Costas loop
 
 ## Project 5:
+project keywords: preamble, midamble, channel estimation, channel correlation, 16-QAM
+
+## Project 6:
 project keywords:
